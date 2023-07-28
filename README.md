@@ -6,3 +6,8 @@ By the end of this project I have become more familiar with:
 - feature engineering
 - multicollinearity and feature selection and scaling
 - git commands
+
+
+<p align="center" width="100%">
+   <img src="images/stages.png" width="600">
+</p>
